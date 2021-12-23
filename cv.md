@@ -15,3 +15,24 @@ ___
 
 ---
 ---
+
+</br>
+</br>
+
+##  **About me**
+
+
+
+
+---
+</br>
+
+>Hi, my name is Oleg, I am 21 years old. He worked in the website development team. At the moment I am actively studying javascript and c#.
+
+</br>
+
+---
+---
+
+</br>
+</br>
