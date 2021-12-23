@@ -94,3 +94,31 @@ if (y < 1) {
 
 </br>
 </br>
+
+##  **Education**
+
+---
+</br>
+
+* ### *Courses:*
+    * *Code Basic - HTML*
+    * *Code Basic - CSS*
+    * *Code Basic - JavaScript*
+
+</br>
+
+---
+---
+</br>
+</br>
+
+## **Languages**
+
+
+
+
+---
+</br>
+
+* ### **English:** *A2*
+* ### **Russian:** *native language*
