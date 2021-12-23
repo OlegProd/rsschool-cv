@@ -36,3 +36,61 @@ ___
 
 </br>
 </br>
+
+##  **Skills**
+
+---
+</br>
+
+* ### *HTML*
+* ### *CSS*
+* ### *JavaScript*
+* ### *WordPress*
+* ### *Git & GitHub*
+
+</br>
+
+---
+---
+
+</br>
+</br>
+
+##  **Code Example**
+
+
+
+---
+</br>
+
+ 
+
+```javascript
+//degree function
+let x = prompt("Enter x: ");
+let y = prompt("Enter y: ");
+
+function pow(x, y) {
+  let res = x;
+
+  for (let i = 1; i < y; i++) {
+    res *= x;
+  }
+
+  return res;
+}
+
+if (y < 1) {
+  alert("This number is less than one");
+} else {
+  alert( pow(x, y) );
+}
+```
+
+</br>
+
+---
+---
+
+</br>
+</br>
