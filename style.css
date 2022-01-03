@@ -48,3 +48,13 @@ header a {
   text-decoration: none;
   color: rgb(34, 34, 34);
 }
+.contact {
+  letter-spacing: 1px;
+  font-family: "Varela Round", arial, sans-serif;
+  line-height: 30px;
+  color: rgb(34, 34, 34);
+}
+.contact a {
+  text-decoration: none;
+  color: #606060;
+}
