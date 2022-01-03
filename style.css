@@ -175,3 +175,12 @@ header a {
     margin: 0 30px;
   }
 }
+
+.foot {
+  width: 54%;
+  margin-left: 27%;
+  }
+footer a{
+  text-decoration: none;
+  color: #606060;
+}
