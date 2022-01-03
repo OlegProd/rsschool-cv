@@ -95,3 +95,9 @@ header a {
   width: 770px;
   height: 500px;
 }
+#logo {
+  width: 100px;
+  height: auto;
+  margin-left: 26%;
+  padding-right: 15%;
+}
