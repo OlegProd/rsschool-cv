@@ -15,3 +15,13 @@ h2 {
   font-size: 26px;
   color: #686668;
 }
+hr {
+  border-radius: 100%;
+  border: 2px solid #9d999d;
+}
+img {
+  width: 100%;
+}
+li {
+  list-style-type: none;
+}
