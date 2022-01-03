@@ -58,3 +58,18 @@ header a {
   text-decoration: none;
   color: #606060;
 }
+
+.content {
+  margin-left: 18%;
+  width: 65%;
+}
+
+ code {
+  background-color: rgb(247, 247, 247);
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+  color: rgb(35, 163, 41);
+  font-size: 16px;
+
+}
