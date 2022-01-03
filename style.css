@@ -25,3 +25,6 @@ img {
 li {
   list-style-type: none;
 }
+@font-face {
+  font-family: "Varela Round";
+  src: url(VarelaRound-Regular.ttf);
