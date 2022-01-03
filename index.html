@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bobrov Oleg</title>
+  </head>
+  <body>
+    <div class="main">
+      <header>
+        <h1 id="name"><a href="/">Bobrov Oleg</a></h1>
+
+        <ul class="menu-main">
+          <li><a href="#aboutme" class="current">About me</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#code">Works</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#language">Languages</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </header>
+
+      <img id="foto" src="im.jpg" alt="image author" />
+
+      <a id="aboutme"></a>
+      <div class="about">
+        <br />
+        <blockquote>
+          <p>
+            Hi, my name is Oleg, Im 21 years old. Worked in the website
+            development team. At the moment Im actively studying javascript and
+            c#.
+            <br />
+          </p>
+        </blockquote>
+        <br />
+      </div>
+      <div class="content">
+        <br />
+        <a id="skills"></a>
+        <div class="skills">
+          <h2>Skills</h2>
+
+          <ul>
+            <li>
+              <em>HTML</em>
+            </li>
+            <li>
+              <em>CSS</em>
+            </li>
+            <li>
+             <em>JavaScript</em>
+            </li>
+            <li>
+              <em>WordPress</em>
+            </li>
+            <li>
+              <em>Git &amp; GitHub</em>
+            </li>
+          </ul>
+          <br />
+        </div>
+        <br />
+        <br />
+        <a id="code"></a>
+        <div class="code">
+          <h2>Code Example</h2>
+
+          <pre><code class="language-javascript"> 
+let x = prompt("Enter x: ");
+let y = prompt("Enter y: ");
+function pow(x, y) {
+  let res = x;
+  for (let i = 1; i &lt; y; i++) {
+    res *= x;
+  }
+  return res;
+ }
+if (y &lt; 1) {
+  alert("X");
+  } else {
+    alert( pow(x, y) );
+}</code></pre>
+          <br />
+        </div>
+        <br />
+        <a id="education"></a>
+        <div class="edc"></div>
+        <h2>Education</h2>
+
+        <ul>
+          <li>
+            <p><strong>Courses:</strong></p>
+            <ul>
+              <li><em>Code Basic - HTML</em></li>
+              <li><em>Code Basic - CSS</em></li>
+              <li><em>Code Basic - JavaScript</em></li>
+            </ul>
+          </li>
+        </ul>
+        <br />
+        <br />
+        <a id="language"></a>
+        <div class="lang">
+          <h2>Languages</h2>
+          <ul>
+            <li>
+              <p><strong>English:</strong> <em>A2</em></p>
+            </li>
+            <li>
+              <p><strong>Russian:</strong> <em>native language</em></p>
+            </li>
+          </ul>
+        </div>
+        <br />
+        <a id="contact"></a>
+        <div class="contact">
+          <h2>Contact</h2>
+          <ul>
+            <li>
+              <p><strong>Address:</strong> Belarus, Gomel</p>
+            </li>
+            <li>
+              <p>
+                <strong>Email:</strong>
+                <a href="#" title="email">gromov.oleg.by@gmail.com</a>
+              </p>
+            </li>
+            <li>
+              <strong>GitHub:</strong>
+              <a href="https://github.com/OlegProd" title="github">OlegProd</a>
+            </li>
+            <li>
+              <p>
+                <strong>Discord:</strong>
+                <a href="#" title="discord">GromovOleg</a>
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Telegram:</strong>
+                <a href="#" title="telegram">@olegomelby</a>
+              </p>
+              <br />
+            </li>
+          </ul>
+          <br />
+        </div>
+        <br />
+      </div>
+    </div>
+    <footer>
+      <div class="foot">
+      <a href="https://github.com/OlegProd">My GitHub</a>
+      <a href="https://rs.school/js/">
+        <img id="logo" src="img.svg" />
+       </a>
+       <span id="year">Made with love(2022)</span>
+       </div>
+    </footer>
+    </body>
+    </html>
